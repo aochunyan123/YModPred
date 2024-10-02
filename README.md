@@ -10,13 +10,18 @@ Datasets and source code are available at: https://github.com/aochunyan/YModPred
 Before running, please make sure the following packages are installed in Python environment:
 
 python==3.8.16
+
 pytorch==2.0
+
 numpy==1.24.3
+
 pandas==2.0.1
 
 # 4. Running
 Changing working dir to YModPred, and then running the following command:
 
 python main.py -i test.fasta -o prediction_results.csv
+
 -i: input file in fasta format
+
 -o: output file name
