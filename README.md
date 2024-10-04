@@ -20,8 +20,10 @@ pandas==2.0.1
 # 4. Running
 Changing working dir to YModPred, and then running the following command:
 
-python main.py -i test.fasta -o prediction_results.csv
+python main.py -i test.fasta -mod m6A -o prediction_results.csv
 
 -i: input file in fasta format
+
+-mod: modification type
 
 -o: output file name
