@@ -27,3 +27,7 @@ python main.py -i test.fasta -mod m6A -o prediction_results.csv
 -mod: modification type
 
 -o: output file name
+
+# 5. License 
+This project is licensed under the MIT License. You can view the full license in the [LICENSE](./LICENSE) file.
+
